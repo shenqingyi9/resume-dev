@@ -8,7 +8,7 @@
   contacts: 
     (
       "+86 183 2495 1966",
-       link("mailto:shenqingyi@gmail.com", "shenqingyi@gmail.com"),  
+       link("mailto:shenqingyi9@icloud.com", "shenqingyi9@icloud.com"),  
        link("https://github.com/shenqingyi9", "github.com/shenqingyi9"),  
     )
 )
@@ -61,14 +61,6 @@
 ]
 
 #resume-project(
-  title: "An Efficient Anchor-Based Face Alignment Network With Transformer",
-  start: "2022.04",
-  end: "2022.06"
-)[
-  - *论文简介*：本文提出基于 Transformer 的高效锚点人脸对齐网络（AFT） ，该网络先通过 CNN（ResNet 系列）提取低层图像特征，再利用 Transformer 捕捉长距离空间信息，最后借助包含偏移估计分支和锚点提议分支的预测头，基于锚点（每 16 像素设置一个，位于图像块中心）预测人脸关键点坐标；在 WFLW 数据集（含 10000 张图像、98 个关键点）上测试结果，显示 AFT 在保证高鲁棒性和竞争力精度的同时，兼具较高的运行速率。
-]
-
-#resume-project(
   title: "空中小平台布阵控制与交互呈现",
   duty: "主要维护者 / 中国电力科学院涉密项目",
   start: "2021.08",
@@ -76,6 +68,14 @@
 )[
   - 通过面向对象的底层程序设计，使得用户可以通过统一化菜单交互方式，对整个仿真过程进行深度自定义。
   - 充分利用 Unity3D 引擎的 assetbundle 等功能，使得用户在不用接触和修改项目软件源代码的前提下，通过对Unity3D 软件的简单操作，即可向项目软件中添加自定义 3D 模型。
+]
+
+#resume-project(
+  title: "An Efficient Anchor-Based Face Alignment Network With Transformer",
+  start: "2022.04",
+  end: "2022.06"
+)[
+  - *论文简介*：本文提出基于 Transformer 的高效锚点人脸对齐网络（AFT） ，该网络先通过 CNN（ResNet 系列）提取低层图像特征，再利用 Transformer 捕捉长距离空间信息，最后借助包含偏移估计分支和锚点提议分支的预测头，基于锚点（每 16 像素设置一个，位于图像块中心）预测人脸关键点坐标；在 WFLW 数据集（含 10000 张图像、98 个关键点）上测试结果，显示 AFT 在保证高鲁棒性和竞争力精度的同时，兼具较高的运行速率。
 ]
 
 #resume-project(
@@ -92,7 +92,7 @@
 
 #resume-project(
   title: "基于语义树的研发加计扣除新颖性判定",
-  duty: "硕士毕业设计项目（已废弃）",
+  duty: "实验室项目",
   start: "2024.06",
   end: "2025.05"
 )[
@@ -102,7 +102,7 @@
 
 #resume-project(
   title: "基于嵌套实体识别与关系抽取的中文医学知识图谱构建",
-  duty: "硕士毕业设计项目（终版）",
+  duty: "硕士毕业设计项目",
   start: "2025.06",
   end: "2025.12"
 )[
