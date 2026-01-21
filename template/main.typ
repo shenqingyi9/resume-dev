@@ -8,7 +8,7 @@
   contacts: 
     (
       "+86 183 2495 1966",
-       link("mailto:shenqingyi9@icloud.com", "shenqingyi9@icloud.com"),  
+       link("mailto:princesszhi@foxmail.com", "princesszhi@foxmail.com"),  
        link("https://github.com/shenqingyi9", "github.com/shenqingyi9"),  
     )
 )
