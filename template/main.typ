@@ -35,7 +35,7 @@
 ]
 
 #resume-section[技术能力]
-- *语言*: 常用 Rust, Python； 熟悉 C(C11),C++(C++11)；了解 Go, Java。
+- *语言*: 常用 Rust； 熟悉 C(C11),C++(C++11)；了解 Go, Java, Python。
 - *其他*: 有 OpenWrt 透明代理的实践经验。
 
 #resume-section[工作经历]
